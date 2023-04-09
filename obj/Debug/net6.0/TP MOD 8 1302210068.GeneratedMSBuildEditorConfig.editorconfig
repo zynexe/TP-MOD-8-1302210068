@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TP_MOD_8_1302210068
+build_property.ProjectDir = C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\

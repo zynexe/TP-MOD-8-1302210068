@@ -1,0 +1,17 @@
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.csproj.AssemblyReference.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.AssemblyInfoInputs.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.AssemblyInfo.cs
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.csproj.CoreCompileInputs.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\bin\Debug\net6.0\TP MOD 8 1302210068.exe
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\bin\Debug\net6.0\TP MOD 8 1302210068.deps.json
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\bin\Debug\net6.0\TP MOD 8 1302210068.runtimeconfig.json
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\bin\Debug\net6.0\TP MOD 8 1302210068.dll
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\bin\Debug\net6.0\TP MOD 8 1302210068.pdb
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.csproj.CopyComplete
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.dll
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\refint\TP MOD 8 1302210068.dll
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.pdb
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\TP MOD 8 1302210068.genruntimeconfig.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\week 8\TP MOD 8 1302210068\obj\Debug\net6.0\ref\TP MOD 8 1302210068.dll
